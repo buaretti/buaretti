@@ -11,6 +11,8 @@
 <p>
 <a href="https://www.instagram.com/mbuaretti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/marcelo-buaretti-a6aa5528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="https://stackoverflow.com/users/22498409/marcelo-buaretti"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt=""></a>
+<a href="https://www.hackerrank.com/mbuaretti"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=""></a>
 </p>
 
 <h2>Languages and Tools:</h2>
