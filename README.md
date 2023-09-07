@@ -23,13 +23,25 @@
 </p>
 
 
-  [![Anurag' GitHub stats](https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&theme=radical)](https://github.com/buaretti/github-readme-stats)
+| <a href="https://github.com/buaretti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo´s github stats" /></a> | <a href="https://github.com/buaretti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&theme=radical&layout=compact)
+<h2>Top Repositories</h2>
+
 
 <a href="https://github.com/buaretti/projeto-social">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&theme=radical&repo=projeto-social" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&repo=projeto-social&theme=buefy" />
 </a>
 <a href="https://github.com/buaretti/projeto-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&theme=radical&repo=projeto-android" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&repo=projeto-android&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://www.instagram.com/mbuaretti/">
+  <img align="right" alt="Marcelo Buaretti | Instagram" width="21px" src="https://cdn141.picsart.com/264066759002212.png" />
+</a>
+<a href="https://www.linkedin.com/in/marcelo-buaretti-a6aa5528a/">
+  <img align="right" alt="Marcelo Buaretti | Linkedin" width="20px" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" />
 </a>
