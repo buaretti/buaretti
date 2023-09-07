@@ -21,3 +21,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=""></a>
 <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""></a>
 </p>
+
+
+  [![Anurag' GitHub stats](https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&theme=radical)](https://github.com/buaretti/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&theme=radical&layout=compact)
+
+<a href="https://github.com/buaretti/projeto-social">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&theme=radical&repo=projeto-social" />
+</a>
+<a href="https://github.com/buaretti/projeto-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&theme=radical&repo=projeto-android" />
+</a>
