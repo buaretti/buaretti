@@ -21,7 +21,7 @@
 </p>
 
 
-| <a href="https://github.com/buaretti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo´s github stats" /></a> | <a href="https://github.com/buaretti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo´s github stats" /></a> | <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h2>Top Repositories</h2>
