@@ -43,3 +43,6 @@
 <a href="https://www.linkedin.com/in/marcelo-buaretti-a6aa5528a/">
   <img align="right" alt="Marcelo Buaretti | Linkedin" width="20px" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" />
 </a>
+<a href="https://twitter.com/mbuaretti">
+  <img align="right" alt="Marcelo Buaretti | Twitter" width="20px" src="https://th.bing.com/th/id/R.b757f2bca8039d4a08882d38f4c1b8f0?rik=l1HvTt1fIsaMmQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ftwitter-logo-png-logo-twitter-in-png-2500.png&ehk=qSLAOlUdmImpXk6Jj6NUgKgK5gv%2fq1TGUwvlzdeBiNA%3d&risl=&pid=ImgRaw&r=0" />
+</a>
