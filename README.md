@@ -30,8 +30,8 @@
 <a href="https://buaretti.github.io/login-project/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&repo=login-project&theme=buefy" />
 </a>
-<a href="https://github.com/buaretti/projeto-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&repo=projeto-android&theme=buefy" />
+<a href="https://buaretti.github.io/projeto-social/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buaretti&repo=projeto-social&theme=buefy" />
 </a>
 
 <br />
