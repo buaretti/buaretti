@@ -2,7 +2,6 @@
 
 <strong>A Front End developer from Brazil working with JavaScript, HTML5, CSS3</strong>
 
-- 🔭 I’m currently working on: ...
 - 🌱 I’m currently learning: JavaScript, HTML5, CSS3
 - 📫 How to reach me: mbuaretti@gmail.com
 - 👯 I’m looking to collaborate on: Mobile and Web Development
