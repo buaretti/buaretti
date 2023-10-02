@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Marcelo" src="imgs/hellofoto.png" /></a></p>
+<p align="center"><a href="#"><img width="40%" alt="Hello, I'm Marcelo" src="imgs/hellofoto.png" /></a></p>
 
 
 <strong>I’m a Front end developer from Brazil 🇧🇷</strong>
