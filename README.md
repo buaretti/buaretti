@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="70%" alt="Hello, I'm Marcelo" src="imgs/hello.png" /></a></p>
+<p align="center"><a href="#"><img width="50%" height="50%" alt="Hello, I'm Marcelo" src="imgs/hello.png" /></a></p>
 
 <br />
 
