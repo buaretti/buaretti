@@ -2,13 +2,15 @@
 
 <br />
 
-<strong>I’m a Front end developer from Brazil 🇧🇷</strong>
+I’m a Front end developer from Brazil 🇧🇷
 
-- 🌱 I’m currently learning: JavaScript, HTML5, CSS3
-- 📫 How to reach me: mbuaretti@gmail.com
-- 👯 I’m looking to collaborate on: Mobile and Web Development
+**About me**
+
+- 🎓 I’m currently learning: React, JavaScript, TipeScript
+- 🤝 I’m looking to collaborate on: Mobile and Web Development
+- 💬 Ask me about anything [here](https://github.com/buaretti/buaretti/issues)
   
-<h2>Languages and Tools:</h2>
+#### Languages and Tools
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -21,7 +23,7 @@
 | <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo´s github stats" /></a> | <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h2>Top Repositories</h2>
+#### Top Repositories
 
 
 <a href="https://buaretti.github.io/login-project/">
