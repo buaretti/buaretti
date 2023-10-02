@@ -1,5 +1,6 @@
 <p align="center"><a href="#"><img width="100%" alt="Hello, I'm Marcelo" src="imgs/hello.png" /></a></p>
 
+<br />
 
 <strong>I’m a Front end developer from Brazil 🇧🇷</strong>
 
