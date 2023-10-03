@@ -2,7 +2,7 @@
 
 <br />
 
-I’m a Front end developer from Brazil 🇧🇷
+I’m a FrontEnd developer from Brazil 🇧🇷
 
 **About me**
 
