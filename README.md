@@ -37,11 +37,14 @@ I’m a FrontEnd developer from Brazil 🇧🇷
 <br />
 
 <a href="https://www.instagram.com/mbuaretti/">
-  <img align="right" alt="Marcelo Buaretti | Instagram" width="21px" src="imgs/instagram.png" />
+  <img align="right" alt="Marcelo Buaretti | Instagram" width="20px" src="imgs/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/marcelo-buaretti-a6aa5528a/">
   <img align="right" alt="Marcelo Buaretti | Linkedin" width="20px" src="imgs/linkedin.png" />
 </a>
 <a href="https://twitter.com/mbuaretti">
   <img align="right" alt="Marcelo Buaretti | Twitter" width="20px" src="imgs/twitter.png" />
+</a>
+<a href="mailto:mbuaretti@gmail.com">
+  <img align="right" alt="Marcelo Buaretti | E-mail" width="20px" src="imgs/gmail.png" />
 </a>
