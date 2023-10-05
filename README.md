@@ -45,6 +45,3 @@ I’m a FrontEnd developer from Brazil 🇧🇷
 <a href="https://twitter.com/mbuaretti">
   <img align="right" alt="Marcelo Buaretti | Twitter" width="20px" src="imgs/twitter.png" />
 </a>
-<a href="mailto:mbuaretti@gmail.com">
-  <img align="right" alt="Marcelo Buaretti | E-mail" width="20px" src="imgs/gmail.png" />
-</a>
