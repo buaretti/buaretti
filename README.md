@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="50%" height="10%" alt="Hello, I'm Marcelo" src="imgs/hello.png" /></a></p>
+<p align="center"><a href="#"><img width="50%" alt="Hello, I'm Marcelo" src="imgs/hello.png" /></a></p>
 
 <br />
 
@@ -12,12 +12,12 @@ I’m a FrontEnd developer from Brazil 🇧🇷
   
 #### Languages and Tools
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="html5" src="https://th.bing.com/th/id/R.dbee0357b49b9ff513f852f28a6c0fe1?rik=ixtcDcdeDELuyw&pid=ImgRaw&r=0"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="css" src="https://logospng.org/download/css-3/logo-css-3-512.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="javascript" src="imgs/js.png"></code>
+<code><img height="20" alt="typescript" src="imgs/ts.png"></code>
+<code><img height="20" alt="html5" src="imgs/html5.png"></code>
+<code><img height="20" alt="react" src="imgs/react.png"></code>
+<code><img height="20" alt="css" src="imgs/css.jpg"></code>
+<code><img height="20" alt="nodejs" src="imgs/node.png"></code>    
 
 
 | <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buaretti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcelo´s github stats" /></a> | <a href="https://github.com/buaretti?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buaretti&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -37,11 +37,11 @@ I’m a FrontEnd developer from Brazil 🇧🇷
 <br />
 
 <a href="https://www.instagram.com/mbuaretti/">
-  <img align="right" alt="Marcelo Buaretti | Instagram" width="21px" src="https://cdn141.picsart.com/264066759002212.png" />
+  <img align="right" alt="Marcelo Buaretti | Instagram" width="21px" src="imgs/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/marcelo-buaretti-a6aa5528a/">
-  <img align="right" alt="Marcelo Buaretti | Linkedin" width="20px" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" />
+  <img align="right" alt="Marcelo Buaretti | Linkedin" width="20px" src="imgs/linkedin.png" />
 </a>
 <a href="https://twitter.com/mbuaretti">
-  <img align="right" alt="Marcelo Buaretti | Twitter" width="20px" src="https://th.bing.com/th/id/R.b757f2bca8039d4a08882d38f4c1b8f0?rik=l1HvTt1fIsaMmQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ftwitter-logo-png-logo-twitter-in-png-2500.png&ehk=qSLAOlUdmImpXk6Jj6NUgKgK5gv%2fq1TGUwvlzdeBiNA%3d&risl=&pid=ImgRaw&r=0" />
+  <img align="right" alt="Marcelo Buaretti | Twitter" width="20px" src="imgs/twitter.png" />
 </a>
