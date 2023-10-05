@@ -16,7 +16,7 @@ I’m a FrontEnd developer from Brazil 🇧🇷
 <code><img height="20" alt="typescript" src="imgs/ts.png"></code>
 <code><img height="20" alt="html5" src="imgs/html5.png"></code>
 <code><img height="20" alt="react" src="imgs/react.png"></code>
-<code><img height="20" alt="css" src="imgs/css.jpg"></code>
+<code><img height="20" alt="css" src="imgs/css.png"></code>
 <code><img height="20" alt="nodejs" src="imgs/node.png"></code>    
 
 
